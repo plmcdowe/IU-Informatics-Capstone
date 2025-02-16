@@ -1,7 +1,7 @@
 # IU Informatics, BS.
 ### My contributions to a project which created an iOS application to track availability of on campus parking.
 > 
-> **Two Particle Photon's fitted with sonar sensors programmed to increment/decrement parking facility occupancy:**
+> **Two Particle Photon's with sonar sensors programmed to increment/decrement parking facility occupancy:**
 >> <img src="https://github.com/user-attachments/assets/638bd649-03e6-41b0-be4a-783cfbbe8448" alt="Alt Text" width="400" height="263">
 > **Changes to occupancy are published by json web-hooks to a PHP script which updates a SQL datatbase.**   
 >> ### [ ParticleA.ino ](https://github.com/plmcdowe/IU-Informatics-Capstone/blob/da713ac993d08bc1d79b0551831f399e152470bc/ParticleA.ino) decrements on vehicle exit and publishes the event to ParticleB.
