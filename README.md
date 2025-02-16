@@ -57,7 +57,7 @@ My contributions to a project which created an iOS application to track availabi
 >> }
 >> ```
 >>
-   
+---   
 >> ## [ ParticleB.ino ](https://github.com/plmcdowe/IU-Informatics-Capstone/blob/da713ac993d08bc1d79b0551831f399e152470bc/ParticleB.ino) increments on vehicle entrance and publishes all events to the Particle cloud.
 >> ```C#
 >> #define echoPin D6 // Echo Pin
@@ -95,7 +95,7 @@ My contributions to a project which created an iOS application to track availabi
 >> } 
 >> ```
 >>
-   
+---   
 >> ## [ count.php ](https://github.com/plmcdowe/IU-Informatics-Capstone/blob/da713ac993d08bc1d79b0551831f399e152470bc/count.php) recieves the json formatted web-hook from the Particle cloud and updates the SQL database.   
 >> ```php
 >> <?php
@@ -113,4 +113,4 @@ My contributions to a project which created an iOS application to track availabi
 >> ?>
 >> ```
 >>
-    
+---    
