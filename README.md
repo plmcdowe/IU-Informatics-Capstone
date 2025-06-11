@@ -3,7 +3,7 @@
 > **Two Particle Photon's with sonar sensors programmed to increment/decrement parking facility occupancy:**
 >> ![20241231_194108](https://github.com/user-attachments/assets/7a362226-77be-47d3-b584-cc4cfc9bcb31)
 >
-> **Changes to occupancy are published by json web-hooks to a PHP script which updates a SQL datatbase.**   
+> **Changes to occupancy are published by json web-hooks to a PHP script which updates a SQL database.**   
 > ### [ParticleA.ino](https://github.com/plmcdowe/IU-Informatics-Capstone/blob/da713ac993d08bc1d79b0551831f399e152470bc/ParticleA.ino) decrements on vehicle exit; publishes the event to ParticleB.
 >> ```C++
 >> #define echoPin D6 // Echo Pin
